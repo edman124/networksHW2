@@ -1,0 +1,26 @@
+########
+# All questions refer to 208.65.152.0/22 AND all its sub-prefixes
+# Please refer to HW2 webpage for detailed instructions for each question
+########
+
+1. Observation from rib.20080224.1822
+AS: 36561
+Announced prefixes: 208.65.152.0/22 
+AS Name: Youtube| AS owner: Google
+WHOIS lookup: YouTube, LLC
+
+2. Observation from updates.20080224.1839
+AS: 17557
+Announced prefixes: 208.65.153.0/24
+AS Name: PKTELECOM-AS-PK | AS owner: Pakistan Telecommuication company limited
+
+
+3. Observation from updates.20080224.1954
+
+4. Observation from updates.20080224.2009
+
+5. Observation from rib.20080224.2024
+
+6. Observation from updates.20080224.2041
+
+7. Observation from updates.20080224.2056
